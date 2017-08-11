@@ -56,6 +56,10 @@ public class ResourcePackRequest {
                     player.kickPlayer("Resource pack required.");
                 }
             }
+            else
+            {
+                player.sendMessage(failureMessage);
+            }
         }
     }
 
