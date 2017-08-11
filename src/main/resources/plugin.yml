@@ -1,0 +1,7 @@
+name: ResourcePackAPI
+main: com.austinpilz.ResourcePackAPI.ResourcePackAPI
+version: ${project.version}
+author: Austin Pilz
+website: http://austinpilz.com
+load: POSTWORLD
+
